@@ -202,27 +202,32 @@
       "url": "https://masofficiel.ma/boutique/"
     }
   ],
-  "socialMedia": {
-    "facebook": {
+  "socialMedia": [
+    {
+      "platform": "facebook",
       "active": true,
       "url": "https://www.facebook.com/CLUBMASOFF"
     },
-    "instagram": {
+    {
+      "platform": "instagram",
       "active": true,
       "url": "https://www.instagram.com/clubmasoff46"
     },
-    "tiktok": {
+    {
+      "platform": "tiktok",
       "active": true,
       "url": "https://www.tiktok.com/@clubmasoff"
     },
-    "twitter": {
+    {
+      "platform": "twitter",
       "active": true,
       "url": "https://twitter.com/clubmasoff46"
     },
-    "youtube": {
+    {
+      "platform": "youtube",
       "active": true,
       "url": "https://youtube.com/@masofficiel6872"
     }
-  },
+  ],
   "video_id": "https://raw.githubusercontent.com/Azraoui/afa/main/intro.mp4"
 }
