@@ -182,27 +182,23 @@
   ],
   "menu": [
     {
-      "title": "Home",
-      "url": "https://masofficiel.ma/"
-    },
-    {
-      "title": "Matchs",
+      "title": "Matches",
       "url": "https://masofficiel.ma/matchs/"
     },
     {
-      "title": "Cartes d'abonnement",
+      "title": "Subscription cards",
       "url": "https://masofficiel.ma/cartes-abonnements/"
     },
     {
-      "title": "Billetterie",
+      "title": "Ticket office",
       "url": "https://masofficiel.ma/billetterie/"
     },
     {
-      "title": "Actualités",
+      "title": "News",
       "url": "https://masofficiel.ma/articles/"
     },
     {
-      "title": "Boutique",
+      "title": "Shop",
       "url": "https://masofficiel.ma/boutique/"
     }
   ],
