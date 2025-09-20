@@ -9,7 +9,7 @@
         "Ces cartes d'abonnement  garantissent votre présence à côté de votre club tout au long de la saison et pendant tous les matches du Maghreb Association Sportive de Fès au Complex sportif de Fès, afin de soutenir votre club comme vous l'avez toujours fait. Et comme on dit toujours : « Notre public, notre fierté »",
         "J'invite tout fan de notre cher club à contribuer au succès de cette campagne.\nDIMA MAS!"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Azraoui/afa/main/img.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Azraoui/afa/main/images/main_img.jpg",
       "subtitle": "Président du Maghreb Association sportive de Fès (MAS)",
       "title": "M. Ismail JAMAI"
     },
@@ -94,5 +94,5 @@
       "url": "https://youtube.com/@masofficiel6872"
     }
   },
-  "video_id": "https://raw.githubusercontent.com/Azraoui/afa/main/IMG_1402.MOV"
+  "video_id": "https://raw.githubusercontent.com/Azraoui/afa/main/intro.mp4"
 }
