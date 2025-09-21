@@ -226,7 +226,7 @@
     },
     {
       "platform": "telegram",
-      "active": true,
+      "active": false,
       "url": "https://t.me/FAUzbekistan"
     },
     {
