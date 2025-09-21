@@ -183,50 +183,56 @@
   "menu": [
     {
       "title": "Matches",
-      "url": "https://masofficiel.ma/matchs/"
+      "url": "https://ufa.uz/"
     },
+ 
     {
-      "title": "Subscription cards",
-      "url": "https://masofficiel.ma/cartes-abonnements/"
-    },
-    {
-      "title": "Ticket office",
-      "url": "https://masofficiel.ma/billetterie/"
+      "title": "Tickets",
+      "url": "https://ufa.uz/"
     },
     {
       "title": "News",
-      "url": "https://masofficiel.ma/articles/"
+      "url": "https://ufa.uz/category/all-news/"
+    },
+    {
+      "title": "Team",
+      "url": "https://ufa.uz/naczionalnaya-sbornaya-uzbekistana/"
     },
     {
       "title": "Shop",
-      "url": "https://masofficiel.ma/boutique/"
+      "url": "https://ufa.uz/"
     }
   ],
   "socialMedia": [
     {
       "platform": "facebook",
       "active": true,
-      "url": "https://www.facebook.com/CLUBMASOFF"
+      "url": "https://www.facebook.com/UzbekistanFA/"
     },
     {
       "platform": "instagram",
       "active": true,
-      "url": "https://www.instagram.com/clubmasoff46"
+      "url": "https://www.instagram.com/uzbekistanfa/"
     },
     {
       "platform": "tiktok",
-      "active": true,
-      "url": "https://www.tiktok.com/@clubmasoff"
+      "active": false,
+      "url": "https://www.tiktok.com/"
     },
     {
       "platform": "twitter",
       "active": true,
-      "url": "https://twitter.com/clubmasoff46"
+      "url": "https://twitter.com/UzbekistanFA"
+    },
+    {
+      "platform": "telegram",
+      "active": true,
+      "url": "https://t.me/FAUzbekistan"
     },
     {
       "platform": "youtube",
       "active": true,
-      "url": "https://youtube.com/@masofficiel6872"
+      "url": "https://www.youtube.com/@UZBEKISTANFA"
     }
   ],
   "video_id": "https://raw.githubusercontent.com/Azraoui/afa/main/intro.mp4"
