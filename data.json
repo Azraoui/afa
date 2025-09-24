@@ -235,5 +235,13 @@
       "url": "https://www.youtube.com/@UZBEKISTANFA"
     }
   ],
+  "partners": [
+    {
+      "logo": ""
+    },
+    {
+      "logo": ""
+    }
+  ],
   "video_id": "https://raw.githubusercontent.com/Azraoui/afa/main/IMG_1571.mp4"
 }
