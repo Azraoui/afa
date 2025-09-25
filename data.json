@@ -182,17 +182,20 @@
   ],
   "menu": [
     {
+      "title": "News",
+      "url": "https://ufa.uz/category/all-news/"
+    },
+    {
+      "title": "Shop",
+      "url": "https://ufa.uz/"
+    },
+    {
       "title": "Matches",
       "url": "https://ufa.uz/"
     },
- 
     {
       "title": "Tickets",
       "url": "https://ufa.uz/"
-    },
-    {
-      "title": "News",
-      "url": "https://ufa.uz/category/all-news/"
     },
      {
       "title": "Fan Card",
@@ -201,10 +204,6 @@
     {
       "title": "Team",
       "url": "https://ufa.uz/naczionalnaya-sbornaya-uzbekistana/"
-    },
-    {
-      "title": "Shop",
-      "url": "https://ufa.uz/"
     }
   ],
   "socialMedia": [
