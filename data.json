@@ -246,6 +246,6 @@
       "logo": "https://raw.githubusercontent.com/Azraoui/afa/main/Jako_logo.png"
     }
   ],
-  "duration": "1500", // milliseconds
+  "duration": 1500, // milliseconds
   "video_id": "https://raw.githubusercontent.com/Azraoui/afa/main/IMG_1571.mp4"
 }
